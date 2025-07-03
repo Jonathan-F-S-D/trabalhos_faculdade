@@ -1,0 +1,1 @@
+Exercício 1/5 de POO, feito em grupo, sobre o cálculo de um trapézio (Área e perímetro).
